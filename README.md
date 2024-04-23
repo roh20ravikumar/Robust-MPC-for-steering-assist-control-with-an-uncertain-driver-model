@@ -6,7 +6,7 @@ Updates and results of the Robust MPC for steering assist control with an uncert
 2. Implemented a simplified version of a constraint-tightening logic for the tube MPC, reducing the overall computation time.
 3. Utilized the Autonomous driving toolbox on Matlab to simulate the event using a single static obstacle and predefined lane markers.
 
-## [Project Report]()
+## [Project Report](https://github.com/roh20ravikumar/Robust-MPC-for-steering-assist-control-with-an-uncertain-driver-model)
 
 ## Results:
 
